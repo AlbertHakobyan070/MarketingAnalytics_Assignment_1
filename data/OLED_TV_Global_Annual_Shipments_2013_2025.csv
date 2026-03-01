@@ -1,0 +1,14 @@
+Year,Annual_Shipments_Million_Units,Cumulative_Shipments_Million_Units,Key_Source,Confidence
+2013,0.005,0.005,"DisplaySearch: ~4500 OLED TVs sold in 2013",Direct
+2014,0.077,0.082,"DisplaySearch: 77000 OLED TVs sold worldwide in 2014",Direct
+2015,0.40,0.482,"LGD conference call: shipped ~400000 OLED TV panels in 2015",Direct
+2016,0.72,1.202,"IHS Markit: OLED TV shipments 723k units in 2016",Direct
+2017,1.47,2.672,"IHS Markit: exceed 1.4 million units shipped in 2017",Direct
+2018,2.51,5.182,"Derived: 2019 actual 3.0M / 1.19 growth = ~2.51M; LGD shipped 2.2-2.8M panels",Derived
+2019,3.00,8.182,"IHS Markit: Total OLED TV sales in 2019 reached 3 million units",Direct
+2020,3.94,12.122,"Derived: TrendForce 2021=6.7M at 70% YoY growth; 6.7/1.7=3.94M",Derived
+2021,6.70,18.822,"TrendForce: OLED TV shipments to 6.7 million units in 2021",Direct
+2022,6.67,25.492,"TrendForce: 6.67 million units",Direct
+2023,5.44,30.932,"TrendForce/Statista: around 5.44 million units",Direct
+2024,6.07,37.002,"Omdia via BusinessWire",Direct
+2025,6.43,43.432,"Omdia via OLED-Info",Direct
