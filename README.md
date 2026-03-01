@@ -24,7 +24,7 @@ A Bass diffusion model analysis predicting the adoption of Samsung's Micro RGB T
 |---|---|
 | p (innovation) | 0.0032 |
 | q (imitation) | 0.4428 |
-| m (market potential) | ~41.8M cumulative units |
+| m (market potential) | ~38.8M cumulative units |
 | Predicted peak year | ~2036 |
 | Peak annual shipments | ~4.36M units |
 
