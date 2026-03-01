@@ -12,7 +12,7 @@ A Bass diffusion model analysis predicting the adoption of Samsung's Micro RGB T
 
 ## Innovation chosen
 
-**Samsung Micro RGB TV** — selected from TIME's Best Inventions of 2025. It uses individually controlled RGB LEDs under 100 micrometers, achieving 100% BT.2020 color gamut. It targets the same ultra-premium segment that OLED TVs pioneered a decade earlier.
+**Samsung Micro RGB TV** — selected from TIME's Best Inventions of 2025. It uses individually controlled RGB LEDs under 100 micrometers, achieving 100% BT.2020 color gamut. It targets the same ultra-premium segment that OLED TVs which entered the market a decade earlier.
 
 ## Look-alike product
 
@@ -41,6 +41,8 @@ A Bass diffusion model analysis predicting the adoption of Samsung's Micro RGB T
 └── img/ 
     └── Empty (No images were made for this project, all figures are in the report)
 ```
+
+> Download and view the report/Albert Hakobyan MA Bass Model Assignment 1.pdf for the most amount of information about the project.
 
 ## Data sources
 
