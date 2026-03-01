@@ -18,15 +18,15 @@ A Bass diffusion model analysis predicting the adoption of Samsung's Micro RGB T
 
 **LG OLED TV** (2013–2025) — the first commercially successful OLED TV, launched at ~$15,000 in 2013. Both products are premium display technologies from Korean manufacturers that created entirely new TV categories.
 
-## Key results
+## Results for the Samsung's Micro RGB TV:
 
 | Parameter | Value |
 |---|---|
 | p (innovation) | 0.0032 |
 | q (imitation) | 0.4428 |
 | m (market potential) | ~41.8M cumulative units |
-| Predicted peak year | ~2035 |
-| Peak annual shipments | ~4.69M units |
+| Predicted peak year | ~2036 |
+| Peak annual shipments | ~4.36M units |
 
 ## Repo structure
 
