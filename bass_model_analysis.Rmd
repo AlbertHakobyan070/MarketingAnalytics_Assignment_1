@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 ## Libraries
 
-```{r, results='hide'}
+```{r results='hide'}
 libs <- c('ggplot2', 'ggpubr', 'knitr', 'diffusion')
 load_libraries <- function(libs) {
   new_libs <- libs[!(libs %in% installed.packages()[, "Package"])]
